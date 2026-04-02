@@ -14,15 +14,15 @@ Transformo requerimientos en experiencias digitales fluidas, abarcando desde la 
 
 Aquí es donde demuestro mi trabajo en equipo y resolución de problemas reales:
 
-* **[Nombre del Proyecto Compartido]** * **Mi rol:** Diseño UI y desarrollo de vistas móviles.
-  * **Aporte clave:** [AQUÍ PEGAS EL ENLACE AL COMMIT] -> *Resolución de responsividad para versión móvil y optimización de flujos en WhatsApp.*
-* **Plataforma SaaS para Gestión de Pedidos** (o el software veterinario)
-  * **Mi rol:** Desarrollo integral usando Next.js y Tailwind CSS.
+* **Franco Trading** * **Mi rol:** FullStack Developer
+  * **Aporte clave:** https://github.com/we-are-cosmind/franco-trading-app/commit/796d8845bd1106308be2476833e057cad2f0efae -> *Modificaciones varias y resolución de responsividad para versión móvil.*
+* **Burgers 03**
+  * **Mi rol:** FullStack Developer
   * **Impacto:** Interfaces claras, amigables y de alto rendimiento.
 
 ---
 
 ### 📫 Conectemos
-* [LinkedIn](ENLACE_A_TU_LINKEDIN)
+* [LinkedIn](https://www.linkedin.com/in/martin-gonzalez-ok/)
 * [Portafolio / Behance / Figma](ENLACE_A_TU_PORTAFOLIO)
 * Email: martingonzalezst@gmail.com
